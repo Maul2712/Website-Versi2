@@ -790,3 +790,9 @@ background:#06b6d4;
     color:#38bdf8;
     transform:translateY(-6px) scale(1.15);
 }
+.subtitle{
+    font-size: 20px;
+    color: #33d6ff;
+    font-weight: 600;
+    margin: 15px 0;
+}
